@@ -7,7 +7,7 @@ TextureImporter:
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
-    sRGBTexture: 1
+    sRGBTexture: 0
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -52,7 +52,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
@@ -894,7 +894,7 @@ TextureImporter:
         width: 101
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -902,6 +902,48 @@ TextureImporter:
       bones: []
       spriteID: d8a74b603f817c54a90f31a3366a44a8
       internalID: 1644124427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit_UI_byBatuhanK_37
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 229
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2f1204ac434bb4ab87a0c156baab88
+      internalID: -600530552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit_UI_byBatuhanK_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 205
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1461ec973f774c642bddb1f1dfb04ba4
+      internalID: -364574087
       vertices: []
       indices: 
       edges: []
@@ -917,6 +959,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      1-bit_UI_byBatuhanK_37: -600530552
       1-bit_UI_byBatuhanK_12: -1451720705
       1-bit_UI_byBatuhanK_7: -1754843710
       1-bit_UI_byBatuhanK_26: 1042141277
@@ -936,11 +979,12 @@ TextureImporter:
       1-bit_UI_byBatuhanK_13: -485876182
       1-bit_UI_byBatuhanK_20: 160017371
       1-bit_UI_byBatuhanK_30: -726297736
+      1-bit_UI_byBatuhanK_38: -364574087
       1-bit_UI_byBatuhanK_5: -754341571
       1-bit_UI_byBatuhanK_3: 1614920774
-      1-bit_UI_byBatuhanK_34: -1608618911
       1-bit_UI_byBatuhanK_2: 503609218
       1-bit_UI_byBatuhanK_28: -121350530
+      1-bit_UI_byBatuhanK_34: -1608618911
       1-bit_UI_byBatuhanK_1: 756936062
       1-bit_UI_byBatuhanK_18: -335434905
       1-bit_UI_byBatuhanK_15: 2069229627
